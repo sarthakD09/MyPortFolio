@@ -123,7 +123,6 @@ export const Contact = () => {
                 <h3 className="text-xl font-bold mb-4 text-primary">Quick Contact</h3>
                 <div className="space-y-3 text-muted-foreground">
                   <p>📧 sarthakdatir22@gmail.com</p>
-                  <p>📱 +91 7972722699</p>
                   <p>📍 Amravati, Maharashtra</p>
                 </div>
               </Card>
